@@ -16,22 +16,17 @@
 
 ## Structure of the Event
 ### Lightning Talks
-- Brief, inspiring sessions to kickstart ideas.
+- Brief, inspiring sessions to kickstart ideas. (max 7 minutes)
 
 ### Marketplace
+- Line out the number of rooms times the amount of slots.
+- if there are rooms with beamers or other needed equipment, highlight those on the agenda
 - Collaborative agenda-setting for breakout discussions.
   - Use post-its and markers for topic proposals.
-  - Facilitate a process for presenting and selecting topics.
-
-## Session Flow
-- Guide participants to propose and choose sessions based on interest.
-- Encourage the use of the Law of Freedom during the event.
+  - Facilitate a process for presenting and selecting topics. People queue up, present 1 proposal for session, if they have multiple, they re-queue
+  - Agenda is made with the proposed ideas
+  - If people want to keep the discussion going, just clear the room so you don't block a following session
 
 ## Time Management
 - Notify participants of start/end times for sessions.
 - Suggest moving discussions to new spaces if needed.
-
-## Closing Remarks
-- Gather everyone for a brief closing circle.
-- Invite reflections and share appreciations.
-- Thank participants and hosts.
