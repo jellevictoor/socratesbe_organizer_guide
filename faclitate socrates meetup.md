@@ -24,7 +24,8 @@
 - Collaborative agenda-setting for breakout discussions.
   - Use post-its and markers for topic proposals.
   - Facilitate a process for presenting and selecting topics. People queue up, present 1 proposal for session, if they have multiple, they re-queue
-  - Agenda is made with the proposed ideas
+  - All post-its are placed inside the parking.
+  - once everyone is done, the agenda is made with the proposed ideas
   - If people want to keep the discussion going, just clear the room so you don't block a following session
 
 ## Time Management
