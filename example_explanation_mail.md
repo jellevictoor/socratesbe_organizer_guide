@@ -12,6 +12,7 @@ Socrates is an unconference focused on fostering innovation and collaboration wi
 - **Sessions:** Deep-dive discussions, workshops, and collaborative activities based on the Marketplace agenda.
 
 This format encourages active participation, knowledge sharing, and networking among attendees. More information on the unconference concept can be found https://www.liberatingstructures.com/25-open-space-technology/.
+The meetup group can be found at [SocratesBE Meetup Group](https://www.meetup.com/socratesbe/)
 
 **Venue Requirements**
 
