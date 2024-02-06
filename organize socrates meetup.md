@@ -4,9 +4,9 @@
 - make sure the host understands the socrates meetup concept
 - add the contact person for the event to the meetup.com group so you can mark them as a co-host
 - Who forsees the food and drinks? 
--- check for enough veggie options
--- check for enough non-alcoholic beverages
--- make sure the food arrive an hour before start of the lightning sessions
+- - check for enough veggie options
+- - check for enough non-alcoholic beverages
+- - make sure the food arrive an hour before start of the lightning sessions
 - is there WIFI available
 - know when the host wants to close up, so you can adjust the schedule
 
