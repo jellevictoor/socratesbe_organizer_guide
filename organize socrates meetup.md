@@ -1,72 +1,63 @@
 # Open Space Event Facilitation Guide
 
-## argeements with the venue
-- make sure the host understands the socrates meetup concept
-- add the contact person for the event to the meetup.com group so you can mark them as a co-host
-- Who forsees the food and drinks? 
-  - check for enough veggie options
-  - check for enough non-alcoholic beverages
-  - make sure the food arrive an hour before start of the lightning sessions
-- is there WIFI available
-- know when the host wants to close up, so you can adjust the schedule
+This guide is designed to assist organizers in facilitating an Open Space event, ensuring a smooth and engaging experience for all participants. From venue agreements to event structure, this document outlines key steps and considerations.
 
-## prep the meetup.com event page
-- make sure that you have admin rights on the socratesbe [meetup group](https://www.meetup.com/socratesbe/) 
-- add the contact person of the host as a co-host. to do this, the contact person needs to be part of the [meetup group](https://www.meetup.com/socratesbe/)
-- make sure practical information like directions and parking are present on the meetup page.
-- Add a starting hour to the event. try to start the event at 19:15. a schedule could look like this when you want to end at 23:00
-  - 18:00 doors
-  - 18:15 food
-  - 19:15 lightning talks
-  - 20:00 marketplace
-  - 20:30 start sessions of 30min
-  - 22:30 end sessions (4 slots)
-  - 23:00 end of the meetup
+## Venue Agreements
 
-## preparation of the venue
-- Look for around 4 breakout rooms (or what the venue allows)
-  - make post-its for each room and give them a name
-  - add the capabilities to the rooms. e.g. the capacity and if there is a beamer
-- Mark the toilet if not clear
-- check what is needed to present the lightning talks, its it only an HDMI cable or do they need wifi to cast
+- **Socrates Meetup Concept**: Confirm the venue host understands the Socrates Meetup concept to align expectations.
+- **Event Co-host**: Add the venue contact person to the [SocratesBE Meetup Group](https://www.meetup.com/socratesbe/) and designate them as a co-host.
+- **Catering**:
+  - Ensure a variety of vegetarian options and non-alcoholic beverages are available.
+  - Arrange for food to arrive one hour before the lightning sessions begin.
+- **Amenities**:
+  - Confirm the availability of WIFI.
+  - Discuss closing times to plan the event schedule accordingly.
 
-## Structure of the Event
-## Opening Remarks
-- Welcome participants warmly.
-- Express gratitude to the venue host and the supplier of food/drinks.
-- Share practical information (e.g., restrooms, emergency exits, wifi password).
-- ask for help if you think you might forget something
+## Meetup.com Event Page Preparation
+
+- **Admin Rights**: Verify you have admin rights on the [SocratesBE Meetup Group](https://www.meetup.com/socratesbe/).
+- **Co-host Addition**: Ensure the venue's contact person joins the Meetup group to be added as a co-host.
+- **Event Details**: Include practical information such as directions and parking on the event page.
+- **Schedule**: Propose an event timeline starting at 19:15 to end at 23:00, with designated times for doors opening, food, lightning talks, marketplace, sessions, and closing.
+
+## Venue Preparation
+
+- **Breakout Rooms**: Identify up to 4 breakout rooms, label them with post-its, and note their features (e.g., capacity, availability of a projector).
+- **Facilities Marking**: Clearly mark restrooms and check the requirements for presenting lightning talks, including HDMI cable or WIFI for casting.
+
+## Event Structure
+
+### Opening Remarks
+
+- Warmly welcome participants and express gratitude to the venue host and food/drink suppliers.
+- Share essential information (e.g., restrooms, emergency exits, WIFI password).
+- Request help if needed to remember details.
+
 ### Lightning Talks
-- Brief, inspiring sessions to kickstart ideas. (max 7 minutes)
-- tips:
-  - 4 lightning talks are mostly sufficient
-  - if there are too many questions try to wrap up and suggest to discuss further in a sessions
 
-## Introduction to Open Space Principles
-What does it mean, an unconference.
-it is based on the open space technology, which means there is no fixed agenda en the agenda is maded based on the input of the participants. 
-Openspace is based on 4 principles and 1 law
-1. **Whoever Comes Is the Right People**: Emphasize the value each person brings.
-2. **Whatever Happens Is the Only Thing That Could Have**: Encourage openness to the flow of the event.
-3. **When It Starts Is the Right Time**: Highlight the importance of spontaneity.
-4. **When It’s Over, It’s Over**: Advise participants to respect the natural end of discussions.
+- Conduct short, inspirational sessions to stimulate ideas, limiting each to 7 minutes.
+- Manage time and questions effectively, encouraging further discussion in breakout sessions if needed.
 
-## Law of Freedom
-- Explain participants' empowerment to choose their sessions and move freely if they feel they are not learning or contributing.
+### Introduction to Open Space Principles
 
+Explain the unconference format, emphasizing its foundation on open space technology, which allows for a flexible agenda driven by participant input. Outline the four principles and one law guiding Open Space:
 
+1. **Whoever Comes Is the Right People**: Valuing every participant's contribution.
+2. **Whatever Happens Is the Only Thing That Could Have**: Embracing the event's flow.
+3. **When It Starts Is the Right Time**: Appreciating spontaneity.
+4. **When It’s Over, It’s Over**: Respecting discussions' natural conclusion.
+
+### Law of Mobility
+
+- Highlight participants' freedom to choose their sessions and move if they're not engaged.
 
 ### Marketplace
-- Line out the number of rooms times the amount of slots.
-- provide post its for the time slots, but don't fill them in already
-- if there are rooms with beamers or other needed equipment, highlight those on the agenda
-- Collaborative agenda-setting for breakout discussions.
-  - Use post-its and markers for topic proposals.
-  - Facilitate a process for presenting and selecting topics. People queue up, present 1 proposal for session, if they have multiple, they re-queue
-  - All post-its are placed inside the parking, not on the schedule
-  - once everyone is done, the agenda is made with the proposed ideas. You can pull in the ideas from the parking lot to the agenda
-  - If people want to keep the discussion going, just clear the room so you don't block a following session
+
+- Arrange a collaborative agenda-setting with post-its for session proposals.
+- Allow participants to present topics and form the agenda collectively, emphasizing equipment availability in certain rooms.
+- Encourage ongoing discussions to relocate if necessary to avoid session interruptions.
 
 ## Time Management
-- Notify participants of start/end times for sessions.
-- Suggest moving discussions to new spaces if needed.
+
+- Inform participants about session timings.
+- Facilitate the transition of discussions to new spaces as needed, ensuring a smooth flow of the event.
