@@ -4,9 +4,9 @@
 - make sure the host understands the socrates meetup concept
 - add the contact person for the event to the meetup.com group so you can mark them as a co-host
 - Who forsees the food and drinks? 
-- - check for enough veggie options
-- - check for enough non-alcoholic beverages
-- - make sure the food arrive an hour before start of the lightning sessions
+  - check for enough veggie options
+  - check for enough non-alcoholic beverages
+  - make sure the food arrive an hour before start of the lightning sessions
 - is there WIFI available
 - know when the host wants to close up, so you can adjust the schedule
 
@@ -15,18 +15,18 @@
 - add the contact person of the host as a co-host. to do this, the contact person needs to be part of the [meetup group](https://www.meetup.com/socratesbe/)
 - make sure practical information like directions and parking are present on the meetup page.
 - Add a starting hour to the event. try to start the event at 19:15. a schedule could look like this when you want to end at 23:00
--- 18:00 doors
--- 18:15 food
--- 19:15 lightning talks
--- 20:00 marketplace
--- 20:30 start sessions of 30min
--- 22:30 end sessions (4 slots)
--- 23:00 end of the meetup
+  - 18:00 doors
+  - 18:15 food
+  - 19:15 lightning talks
+  - 20:00 marketplace
+  - 20:30 start sessions of 30min
+  - 22:30 end sessions (4 slots)
+  - 23:00 end of the meetup
 
 ## preparation of the venue
 - Look for around 4 breakout rooms (or what the venue allows)
--- make post-its for each room and give them a name
--- add the capabilities to the rooms. e.g. the capacity and if there is a beamer
+  - make post-its for each room and give them a name
+  - add the capabilities to the rooms. e.g. the capacity and if there is a beamer
 - Mark the toilet if not clear
 - check what is needed to present the lightning talks, its it only an HDMI cable or do they need wifi to cast
 
@@ -39,8 +39,8 @@
 ### Lightning Talks
 - Brief, inspiring sessions to kickstart ideas. (max 7 minutes)
 - tips:
--- 4 lightning talks are mostly sufficient
--- if there are too many questions try to wrap up and suggest to discuss further in a sessions
+  - 4 lightning talks are mostly sufficient
+  - if there are too many questions try to wrap up and suggest to discuss further in a sessions
 
 ## Introduction to Open Space Principles
 What does it mean, an unconference.
