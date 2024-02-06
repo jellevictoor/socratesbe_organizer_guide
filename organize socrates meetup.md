@@ -5,9 +5,8 @@ This guide is designed to assist organizers in facilitating an Open Space event,
 ## Venue Agreements
 
 - **Socrates Meetup Concept**: Confirm the venue host understands the Socrates Meetup concept to align expectations.
-- **Event Co-host**: Add the venue contact person to the [SocratesBE Meetup Group](https://www.meetup.com/socratesbe/) and designate them as a co-host.
 - **Catering**:
-  - Ensure a variety of vegetarian options and non-alcoholic beverages are available.
+  - Ensure there are both non-vegetarian and vegetarian options.
   - Arrange for food to arrive one hour before the lightning sessions begin.
 - **Amenities**:
   - Confirm the availability of WIFI.
@@ -16,7 +15,7 @@ This guide is designed to assist organizers in facilitating an Open Space event,
 ## Meetup.com Event Page Preparation
 
 - **Admin Rights**: Verify you have admin rights on the [SocratesBE Meetup Group](https://www.meetup.com/socratesbe/).
-- **Co-host Addition**: Ensure the venue's contact person joins the Meetup group to be added as a co-host.
+- **Co-host Addition**: Add the venue contact person to the [SocratesBE Meetup Group](https://www.meetup.com/socratesbe/) and designate them as a co-host.
 - **Event Details**: Include practical information such as directions and parking on the event page.
 - **Schedule**: Propose an event timeline starting at 19:15 to end at 23:00, with designated times for doors opening, food, lightning talks, marketplace, sessions, and closing.
 
